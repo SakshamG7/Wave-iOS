@@ -7,7 +7,16 @@
 		<string>MessageFetchBGRefreshTask</string>
 	</array>
 	<key>BuildDetails</key>
-	<dict/>
+	<dict>
+		<key>DateTime</key>
+		<string>Sun 10 Dec 2023 15:09:38 UTC</string>
+		<key>SignalCommit</key>
+		<string>4939e7a92284b33ce2f1d26d4370a60489a2f5ba Update to my dev id and deleted of Apple Pay</string>
+		<key>Timestamp</key>
+		<integer>1702220978</integer>
+		<key>XCodeVersion</key>
+		<string>1500.1500</string>
+	</dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
