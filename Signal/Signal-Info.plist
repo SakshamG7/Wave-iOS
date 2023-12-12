@@ -9,11 +9,11 @@
 	<key>BuildDetails</key>
 	<dict>
 		<key>DateTime</key>
-		<string>Sun 10 Dec 2023 15:09:38 UTC</string>
+		<string>Sun 10 Dec 2023 17:30:09 UTC</string>
 		<key>SignalCommit</key>
-		<string>4939e7a92284b33ce2f1d26d4370a60489a2f5ba Update to my dev id and deleted of Apple Pay</string>
+		<string>7f6be87a557e0b6a839f5ade5afbb1134c286df0 Modified AppStore plists</string>
 		<key>Timestamp</key>
-		<integer>1702220978</integer>
+		<integer>1702229409</integer>
 		<key>XCodeVersion</key>
 		<string>1500.1500</string>
 	</dict>
@@ -57,7 +57,7 @@
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
 	<key>LOGS_EMAIL</key>
-	<string>support@signal.org</string>
+	<string>mail@do-something-about-it.com</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.social-networking</string>
 	<key>LSApplicationQueriesSchemes</key>

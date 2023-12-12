@@ -38,9 +38,9 @@ public class TSConstants: NSObject {
     // Never instantiate this class.
     private override init() {}
 
-    public static let legalTermsUrl = URL(string: "https://signal.org/legal/")!
-    public static let donateUrl = URL(string: "https://signal.org/donate/")!
-    public static let appStoreUrl = URL(string: "https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8")!
+    public static let legalTermsUrl = URL(string: "https://docs.google.com/document/d/1-IS-hUx9WHdGKv26Bpn5JNo4baE-HxLEio4_m5dstWo/edit?usp=sharing")!
+    public static let donateUrl = URL(string: "https://docs.google.com/document/d/1iiEK1kaIMIznDr8c8CdzWab4KV8HGjRvDW3__w2lGGg/edit?usp=sharing")!
+    public static let appStoreUrl = URL(string: "https://docs.google.com/document/d/1iiEK1kaIMIznDr8c8CdzWab4KV8HGjRvDW3__w2lGGg/edit?usp=sharing")!
 
     public static var mainServiceIdentifiedURL: String { shared.mainServiceIdentifiedURL }
     public static var mainServiceUnidentifiedURL: String { shared.mainServiceUnidentifiedURL }

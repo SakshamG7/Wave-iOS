@@ -82,7 +82,7 @@ class BankTransferMandateViewController: OWSTableViewController2 {
     private static let bankIconSize: CGFloat = 40
     private static let bankIconContainerSize: CGFloat = 64
     /// This URL itself is not used. The action is overridden in the text view delegate function.
-    private static let learnMoreURL = URL(string: "https://support.signal.org/")!
+    private static let learnMoreURL = URL(string: "https://docs.google.com/document/d/16dGkZQuTqxWg849S04kMc-0yR2BkHpEqQXxSswibKAM/edit?usp=sharing")!
 
     private func makeHeaderView() -> UIView {
         let bankIcon = UIImage(systemName: "building.columns")

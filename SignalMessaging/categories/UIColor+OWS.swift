@@ -38,13 +38,19 @@ public extension UIColor {
 public extension UIColor {
 
     // MARK: Brand Colors
+    
+    class var ows_waveRed: UIColor {
+        return UIColor(rgbHex: 0xEC1C24)
+    }
 
     class var ows_signalBlue: UIColor {
-        return UIColor(rgbHex: 0x3A76F0)
+        return .ows_waveRed
+        // return UIColor(rgbHex: 0x3A76F0)
     }
 
     class var ows_signalBlueDark: UIColor {
-        return UIColor(rgbHex: 0x1851B4)
+        return .ows_waveRed
+        // return UIColor(rgbHex: 0x1851B4)
     }
 
     // MARK: Accent Colors
@@ -53,16 +59,19 @@ public extension UIColor {
     @objc(ows_accentBlueColor)
     class var ows_accentBlue: UIColor {
         // Ultramarine UI
-        return UIColor(rgbHex: 0x2C6BED)
+        return UIColor(rgbHex: 0xEC3F46)
+        // return UIColor(rgbHex: 0x2C6BED)
     }
 
     class var ows_accentBlueDark: UIColor {
         // Ultramarine UI Light
-        return UIColor(rgbHex: 0x6191F3)
+        return UIColor(rgbHex: 0xEC2C34)
+        // return UIColor(rgbHex: 0x6191F3)
     }
 
     class var ows_accentBlueTint: UIColor {
-        return UIColor(rgbHex: 0xB0C8F9)
+        return UIColor(rgbHex: 0xED4C54)
+        // return UIColor(rgbHex: 0xB0C8F9)
     }
 
     /// Making calls, success states

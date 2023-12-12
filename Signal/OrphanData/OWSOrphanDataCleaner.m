@@ -5,7 +5,7 @@
 
 #import "OWSOrphanDataCleaner.h"
 #import "OWSProfileManager.h"
-#import "Signal-Swift.h"
+#import "Wave-Swift.h"
 #import <SignalCoreKit/NSDate+OWS.h>
 #import <SignalServiceKit/AppReadiness.h>
 #import <SignalServiceKit/OWSFileSystem.h>

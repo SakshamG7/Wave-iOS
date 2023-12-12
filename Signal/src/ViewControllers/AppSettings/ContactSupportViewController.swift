@@ -8,9 +8,9 @@ import SignalMessaging
 import SignalUI
 
 class SupportConstants: NSObject {
-    static let supportURL = URL(string: "https://support.signal.org/")!
+    static let supportURL = URL(string: "https://docs.google.com/document/d/16dGkZQuTqxWg849S04kMc-0yR2BkHpEqQXxSswibKAM/edit?usp=sharing")!
     static let debugLogsInfoURL = URL(string: "https://support.signal.org/hc/articles/360007318591")!
-    static let supportEmail = "support@signal.org"
+    static let supportEmail = "mail@do-something-about-it.com"
     static let subscriptionFAQURL = URL(string: "https://support.signal.org/hc/articles/4408365318426")!
     static let donorFAQURL = URL(string: "https://support.signal.org/hc/articles/360031949872")!
     static let badgeExpirationLearnMoreURL = URL(string: "https://support.signal.org/hc/articles/360031949872#fix")!

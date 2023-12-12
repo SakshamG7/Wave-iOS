@@ -4,7 +4,7 @@
 //
 
 #import "AppDelegate.h"
-#import "Signal-Swift.h"
+#import "Wave-Swift.h"
 #import <Intents/Intents.h>
 #import <SignalCoreKit/Cryptography.h>
 #import <SignalCoreKit/NSData+OWS.h>
